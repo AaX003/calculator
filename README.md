@@ -24,10 +24,9 @@ Repository: https://github.com/AaX003/calculator
 
 ## 🧠 Tech Stack
 
-- **React**
+- **React (Vite)** 
 - **JavaScript**
 - **CSS** 
-- Build tool: Vite
 
 ---
 
